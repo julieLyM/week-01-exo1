@@ -13,3 +13,19 @@ h1 {
 h2 {
   color: pink;
 }
+
+table {
+  color: red;
+}
+
+table thead {
+  color: green;
+}
+
+table tbody {
+  color: purple;
+}
+
+table tr {
+  color: pink;
+}
